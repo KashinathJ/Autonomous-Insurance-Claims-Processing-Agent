@@ -85,8 +85,8 @@ Assingment/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/fnol-claims-agent.git
-cd fnol-claims-agent
+git clone https://github.com/KashinathJ/Autonomous-Insurance-Claims-Processing-Agent.git
+cd Autonomous-Insurance-Claims-Processing-Agent
 ```
 
 *(If you already have the project folder, just `cd` into it.)*

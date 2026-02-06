@@ -1,0 +1,53 @@
+================================================================================
+FIRST NOTICE OF LOSS (FNOL) — SAMPLE CLAIM (ALL FIELDS / FULL INSIGHTS)
+================================================================================
+Ref: SAMPLE-2024-FULL-001
+Date of Notice: 2024-09-15
+================================================================================
+
+1. POLICY INFORMATION
+--------------------------------------------------------------------------------
+Policy Number:           POL-2024-887654
+Policyholder Name:      Maria Garcia
+Effective Date Start:   2024-01-01
+Effective Date End:     2025-12-31
+
+2. INCIDENT INFORMATION
+--------------------------------------------------------------------------------
+Incident Date:          2024-09-10
+Incident Time:          09:45 AM
+Location:               4500 Commerce Drive, Suite 200, Dallas, TX 75201
+Description:            Rear-end collision at red light. Driver of vehicle 2 stated they looked down at phone. No injuries. Airbags did not deploy. Police report filed (DR# 2024-089234). Weather clear, road dry. No witnesses. Vehicle 1 (insured) was stationary when struck from behind.
+
+3. INVOLVED PARTIES
+--------------------------------------------------------------------------------
+Claimant:
+  Name:                 Maria Garcia
+  Role:                 Policyholder / Driver of vehicle 1
+
+Third Parties:
+  - John Smith (at-fault driver, vehicle 2)
+  - Jane Doe (passenger in vehicle 2, no injury reported)
+
+Contact Details (Primary):
+  Phone:                (214) 555-7890
+  Email:                maria.garcia@email.com
+  Address:              1200 Oak Lane, Dallas, TX 75240
+
+4. ASSET DETAILS
+--------------------------------------------------------------------------------
+Asset Type:             Vehicle (passenger car)
+Asset ID / VIN:         1HGBH41JXMN109186
+Estimated Damage:       18,500
+Currency:               USD
+
+5. CLAIM STATUS & OTHER MANDATORY FIELDS
+--------------------------------------------------------------------------------
+Claim Type:             property
+Attachments:            Photo of damage (front bumper, trunk); Police report DR# 2024-089234; Driver license copy; Insurance card
+Initial Estimate:       18500
+Initial Estimate Currency: USD
+
+================================================================================
+END OF FNOL SAMPLE — ALL INSIGHTS POPULATED
+================================================================================
